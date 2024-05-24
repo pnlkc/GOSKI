@@ -80,12 +80,12 @@ GOSKI와 함께라면팀 단위 및 개인 단위 스케줄을 최적으로 분�
 <img src="exec/images/instructor_gif/강사_04_알림.gif" alt="알림" style="width: 100%;">  
 
 #### 강습 내역 / 피드백 작성
-<img src="exec/images/instructor_gif/강사_06_강습_내역.gif" alt="강습 내역" style="width : 30%; margin-right:10px;">
-<img src="exec/images/instructor_gif/강사_07_피드백_작성.gif" alt="피드백 작성"style="width: 30%;">
+<img src="exec/images/instructor_gif/강사_06_강습_내역.gif" alt="강습 내역" style="width : 100%; margin-right:10px;">
+<img src="exec/images/instructor_gif/강사_07_피드백_작성.gif" alt="피드백 작성"style="width: 100%;">
 
 
 #### 리뷰 내역
-<img src="exec/images/instructor_gif/강사_05_리뷰_내역.gif" alt="리뷰 내역" style="width: 30%;">  
+<img src="exec/images/instructor_gif/강사_05_리뷰_내역.gif" alt="리뷰 내역" style="width: 100%;">  
 
 <div id="3"></div>
 
