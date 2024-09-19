@@ -151,7 +151,7 @@ GOSKI와 함께라면팀 단위 및 개인 단위 스케줄을 최적으로 분�
         <td height="140px" align="center"> 
             <img src="exec/images/송준석.png" width="140px" /> <br> 송준석 <br>(Front-End) </a> <br></td>
         <td height="140px" align="center"> 
-            <img src="exec/images/최지찬.png" width="140px"  /> <br> 최지찬 <br>(Front-End) </a> <br></td>
+            <img src="exec/images/최지찬.jpg" width="140px"  /> <br> 최지찬 <br>(Front-End) </a> <br></td>
         <td height="140px" align="center"> 
             <img src="exec/images/고정원.png" width="140px" /> <br> 고정원 <br>(Back-End) </a> <br></td>
         <td height="140px" align="center"> 
